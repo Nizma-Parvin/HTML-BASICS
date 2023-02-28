@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(245, 234, 234);
+}
+h4{
+    color: rgb(29, 28, 26);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration:  red dotted;
+    border-top:  blue dotted;
+    border-bottom: blue dotted;
+    border-left:  rgb(53, 28, 3) double ;
+    border-left-width: 5px;
+}
+
+p{  border-style: dashed;
+    border-width: 7px;
+    color: rgb(8, 8, 72);
+    border-color: blue;
+    border-radius: 5px;
+    padding: auto;
+}
+#test{
+    background-color: blueviolet;
+}
+#test1{
+    background-color: rgb(172, 123, 49);
+}
+#test2{
+    background-color: rgb(98, 76, 118);
+}
+#test3{
+    background-color: rgb(112, 75, 19);
+}
+#test4{
+    background-color: rgb(41, 30, 52);
+}
+.title{
+    background-color: brown;
+}
+.odd{
+    background-color: rgb(127, 165, 29);
+}
+.even{
+    background-color: aqua;
+}
+

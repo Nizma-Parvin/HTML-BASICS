@@ -1,0 +1,20 @@
+body{
+  background-image: url("vatta.jpg");  
+  background-repeat:no-repeat ;
+  background-attachment: fixed;
+  background-position:center ;
+  background-size:cover ;
+}
+
+h4{
+    
+background: linear-gradient(to left top, rgb(176, 255, 176), rgb(246, 250, 195));
+background-repeat:no-repeat ;
+background-attachment: fixed;
+}
+
+p{
+    background: linear-gradient(to left top, rgb(179, 255, 176), rgb(230, 250, 195));
+    background-repeat:no-repeat ;
+    background-attachment: fixed;  
+}
